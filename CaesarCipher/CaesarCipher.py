@@ -8,7 +8,6 @@ while again == "yes" or again == "":
   text = input("Type your message:\n").lower()
   shift = int(input("Type the shift number:\n"))
 
-  # Single function.
   if shift > 25:
     shift = shift % 26
 
