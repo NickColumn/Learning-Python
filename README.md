@@ -1,2 +1,2 @@
 # Learning-Python
- Python Bootcamp by Angela Yu
+ Here I'm doing my best to complete Python Bootcamp by Angela Yu.
